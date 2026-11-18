@@ -37,8 +37,6 @@ Real vs generated EEG:
 
 More plots in the repo: `Final_SOTA__fig3b_histogram.png`, `Final_SOTA__fig4_timeseries.png`, `Final_SOTA__fig5_connectivity.png`, `final_training_curves_no_attention.png`, `final_fd_evolution_no_attention.png`.
 
-[TODO: add the one headline result you want people to remember]
-
 ## How to run
 
 The notebooks were written for Kaggle with a GPU.
